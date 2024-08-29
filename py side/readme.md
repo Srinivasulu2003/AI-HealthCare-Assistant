@@ -6,4 +6,4 @@ cmd:-
 1. python -v venv venv
 2. venv\Scripts\activate
 3. pip install Flask flask-cors keras-facenet opencv-python numpy
-4.python script2.py
+4. python script2.py
